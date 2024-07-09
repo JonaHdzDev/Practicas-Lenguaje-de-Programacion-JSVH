@@ -1,0 +1,7 @@
+C:\Users\Jonathan Hdz\source\repos\Instancias\bin\Debug\Instancias.exe.config
+C:\Users\Jonathan Hdz\source\repos\Instancias\bin\Debug\Instancias.exe
+C:\Users\Jonathan Hdz\source\repos\Instancias\bin\Debug\Instancias.pdb
+C:\Users\Jonathan Hdz\source\repos\Instancias\obj\Debug\Instancias.csproj.AssemblyReference.cache
+C:\Users\Jonathan Hdz\source\repos\Instancias\obj\Debug\Instancias.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Hdz\source\repos\Instancias\obj\Debug\Instancias.exe
+C:\Users\Jonathan Hdz\source\repos\Instancias\obj\Debug\Instancias.pdb
