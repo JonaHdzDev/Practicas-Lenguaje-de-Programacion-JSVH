@@ -1,0 +1,7 @@
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\bin\Debug\Mayor3NumerosBooleano.exe.config
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\bin\Debug\Mayor3NumerosBooleano.exe
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\bin\Debug\Mayor3NumerosBooleano.pdb
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\obj\Debug\Mayor3NumerosBooleano.csproj.AssemblyReference.cache
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\obj\Debug\Mayor3NumerosBooleano.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\obj\Debug\Mayor3NumerosBooleano.exe
+C:\Users\Jonathan Hdz\source\repos\Mayor3NumerosBooleano\obj\Debug\Mayor3NumerosBooleano.pdb
