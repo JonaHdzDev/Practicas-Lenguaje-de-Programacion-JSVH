@@ -1,0 +1,7 @@
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\bin\Debug\ContarCaracteres.exe.config
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\bin\Debug\ContarCaracteres.exe
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\bin\Debug\ContarCaracteres.pdb
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\obj\Debug\ContarCaracteres.csproj.AssemblyReference.cache
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\obj\Debug\ContarCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\obj\Debug\ContarCaracteres.exe
+C:\Users\Jonathan Hdz\source\repos\ContarCaracteres\obj\Debug\ContarCaracteres.pdb
