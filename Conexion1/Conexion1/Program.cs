@@ -12,7 +12,7 @@ namespace Conexion1
         {
             List<OUT> list = GithubApi();
 
-            Console.WriteLine(list[0].message, list[1].documentation_url, list[2].status );
+            Console.WriteLine(list[0].message, list[1].documentation_url, list[2].status);
 
         }
 
